@@ -9,7 +9,6 @@ This repository contains the code for **QuaRot**: Outlier-Free 4-Bit Inference i
 Compile the QuaRot kernels using the following commands:
 
 ```bash
-git clone https://github.com/spcl/QuaRot.git
 cd QuaRot
 pip install -e .  # or pip install .
 ```
